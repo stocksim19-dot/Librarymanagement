@@ -171,4 +171,5 @@ def main_menu(inventory):
 
 # --- PROGRAM EXECUTION ---
 if __name__ == "__main__":
+
     main_menu(library_inventory)
